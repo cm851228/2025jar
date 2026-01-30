@@ -294,7 +294,7 @@
         },
 {
             "key": "硬解直播",
-            "name": "硬解📡直播",
+            "name": "硬解☣️直播",
             "type": 3,
             "searchable": 0,
             "changeable": 0,
@@ -305,7 +305,7 @@
         },
 {
             "key": "软解直播",
-            "name": "软解📡直播",
+            "name": "软解☣️直播",
             "type": 3,
             "searchable": 0,
             "changeable": 0,
@@ -316,7 +316,7 @@
         },        
 {
             "key": "中国直播",
-            "name": "中国📺直播",
+            "name": "中国🤖直播",
             "type": 3,
             "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar;md5;76630164b5442be73bc3277927729996",
             "api": "csp_AppGet",
