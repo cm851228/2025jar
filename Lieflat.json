@@ -57,24 +57,6 @@
    
         },
 {
-            "name": "PerfectTV",
-            "type": 0,
-            "url": "http://xtvantsc.xyz/1080.m3u",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "IPTV2026",
-            "type": 0,
-            "url": "https://iptv.vrsmarter.workers.dev",
-            "timeout": 30,
-            "playerType": 2,
-            "ua": "okhttp",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-{
             "name": "RobYangrb",
             "type": 0,
             "playerType": 2,
@@ -89,32 +71,12 @@
             "playerType": 2
         },
 {
-            "name": "MyTV",
+            "name": "PerfectTV",
             "type": 0,
-            "url": "https://tv.iill.top/m3u/MyTV",
-            "ua": "okhttp/5.0.0-alpha.14",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "TVMU",
-            "type": 0,
-            "url": "http://bit.ly/tvmu",
+            "url": "http://xtvantsc.xyz/1080.m3u",
             "ua": "okhttp",
             "timeout": 30,
-            "playerType": 2,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-{
-            "name": "国际直播",
-            "type": 0,
-            "url": "http://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25",
-            "ua": "okhttp/3.15",
-            "timeout": 30,
-            "playerType": 2,
-            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-            
+            "playerType": 2
         },
 {
             "name": "YouTube新闻",
@@ -166,6 +128,59 @@
         
         },
 {
+            "name": "风云TV",
+            "type": 0,
+            "url": "http://iptv.4666888.xyz/FYTV.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "AI直播",
+            "type": 0,
+            "url": "http://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "ua": "okhttp",
+            "timeout": 30
+        },
+{
+            "name": "IPTV2026",
+            "type": 0,
+            "url": "https://iptv.vrsmarter.workers.dev",
+            "timeout": 30,
+            "playerType": 2,
+            "ua": "okhttp",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+{
+            "name": "MyTV",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/MyTV",
+            "ua": "okhttp/5.0.0-alpha.14",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
+            "name": "TVMU",
+            "type": 0,
+            "url": "http://bit.ly/tvmu",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+{
+            "name": "国际直播",
+            "type": 0,
+            "url": "http://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25",
+            "ua": "okhttp/3.15",
+            "timeout": 30,
+            "playerType": 2,
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+            
+        },
+{
             "name": "易发频道",
             "type": 0,
             "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
@@ -180,13 +195,6 @@
             "ua": "okhttp/3.15",
             "timeout": 30
 
-        },
-{
-            "name": "AI直播",
-            "type": 0,
-            "url": "http://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "ua": "okhttp",
-            "timeout": 30
         },
 {
             "name": "全球直播",
