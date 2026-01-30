@@ -16,17 +16,9 @@
     
         },
 {
-            "name": "4gTV",
-            "type": 0,
-            "url": "http://4gtv.iill.top/4gtv.m3u",
-            "ua": "okhttp",
-            "timeout": 30
-   
-        },
-{
             "name": "YouTube新闻",
             "type": 0,
-            "url": "http://github.com/cm851228/2025jar/raw/refs/heads/main/youtubelive.txt",
+            "url": "http://gh-proxy.com/http://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtube.m3u",
             "ua": "okhttp",
             "timeout": 30
       
